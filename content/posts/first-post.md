@@ -10,7 +10,7 @@ category: MyPost
 
 Ait ad Nixique Iovis
 
-## Spinea arvis favete capellas vaga nec bimarem
+## Why static websites are awesome
 
 Lorem markdownum undis, qui numeris Scyllae spectant Aurora finditque laedere,
 cernens tulit, vertit. Animal fugacis feret pondus. Consuescit undis; nisi tenet
@@ -34,7 +34,7 @@ graviore educta _deserit_. Addit pro sudem haut, _alta_ cogit nervis quove?
     lion_inbox /= vectorHdmiPop.xmp(accessCpmOpengl, 3, cpuCompression + 1) +
             impactSurface;
 
-## Mihi tyranni
+## The Jamstack is on the rise
 
 Saxis sed cum; foedusque efficiet admonitorque natam pharetras fit vates
 paternos cedunt, dieque victa, coronas permansit implesset. Voluptas omen sors.
