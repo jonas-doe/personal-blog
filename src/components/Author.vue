@@ -2,7 +2,7 @@
   <div style="display: contents">
     <g-link to="/">
       <g-image
-        src="~/assets/img/profile.png"
+        src="~/assets/img/profile2.png"
         :alt="$static.metadata.siteName"
       ></g-image>
     </g-link>
