@@ -7,10 +7,10 @@
       ></g-image>
     </g-link>
     <h1>
-      <a href="/">{{ $static.metadata.siteName }}</a>
+      <a href="/">Personal Blog of Jonas Doe</a>
     </h1>
 
-    <p>{{ $static.metadata.siteDescription }}</p>
+    <p>Get to know the coolest trends in dev</p>
   </div>
 </template>
 
