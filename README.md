@@ -12,4 +12,4 @@ Starter for Gridsome based on [alexandrevicenzi/Flex](https://github.com/alexand
 - Tags
 - Categories
 - Markdown Pages and Markdown Posts
-- Markdown resume of post (on the index)
+- Markdown resume of post (on the index
